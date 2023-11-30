@@ -2,6 +2,10 @@
 name = "version_macro"
 version = "0.1.0"
 edition = "2021"
+authors = ["Ansj <ansj-sun@163.com>"]
+license = "MIT OR Apache-2.0"
+categories = ["binary", "build time", "git version"]
+description = "rust cargo build binary with git version and build time"
 
 
 [lib]
